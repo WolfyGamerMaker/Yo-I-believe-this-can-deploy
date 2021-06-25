@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Banana
+title: About the Classes
 category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
 categories:
@@ -11,6 +11,10 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+# **What** _do_ we do?
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+These classes are taught by one person, but as they are usually one-on-one learning experiences, the students taking the classes will get more attention and care, leading to a more successful education. For younger students, we start out with the basics of rhythm, notes, and a bit of theory. They will soon learn how to play simple songs and will gain a sense of music. For older students, we put more importance into theory as well as reading on a clef. 
+
+# Books?
+
+The books which will be used during teaching are the faber series, but that doesn't mean that the students' musical education will be strictly limited to the books. Students can learn other songs, and receive help during classes. If you would like to use another book, feel free to inform us. 
