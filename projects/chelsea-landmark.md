@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: About the Classes
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/pexels-marta-wave-6437823.jpg"
 categories:
 - photography
 - pink
