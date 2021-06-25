@@ -5,8 +5,8 @@ title: About the Classes
 category: Identity
 thumbnail: "/uploads/pexels-marta-wave-6437823.jpg"
 categories:
-- photography
-- pink
+- Photo by Marta Wave from Pexels
+- Methods
 project_bg_color: ''
 project_fg_color: ''
 
